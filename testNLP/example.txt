@@ -1,0 +1,37 @@
+Internet is too slow, network
+Server DNS Address could not be found, network
+Failed to obtain IP address, network
+TCP connection timeout/error, network
+Unreliable connections, network
+Difficulty accessing networked devices through a router, network
+router, network
+switch, network
+internet, network
+modem,network
+Internet is too slow, network
+Server DNS Address could not be found, network
+DNS server not responding, network
+Application won't start, application
+Application, application
+Application Update is taking longer than usual, application
+Application has gone offline, application
+I have been locked out of my account after multiple attempts, access
+Unable to reset password after Leave of abscene return, access
+Need permission to sign on, access
+Need help with changing password, access
+I have been locked out, access
+multiple attempts, access
+forgot password, access
+E21121- Disk space is low, storage
+Hard disk failure, storage
+Volume is dirty, storage
+Event 020002 Error 1620 - A storage pool is offline, storage
+5038 Code integrity determined that the image hash of a file is not valid, storage
+Event 010105 Error 2080 - Storage system connected to unsupported port, storage
+internet crashed, network
+crashed internet, network
+Wrong IP address, network
+page is loading, network
+server error, network
+system error, storage
+screen is not working, network

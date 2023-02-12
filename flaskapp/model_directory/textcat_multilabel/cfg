@@ -1,0 +1,9 @@
+{
+  "labels":[
+    "network",
+    "application",
+    "hardware",
+    "access"
+  ],
+  "threshold":0.5
+}
